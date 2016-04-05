@@ -8,13 +8,21 @@ The website is a static page so that you may directly open in browser, or host i
 
 ## Installation
 
-```npm install -g webpack```
+```
+npm install -g webpack
+```
 
-```npm install```
+```
+npm install
+```
 
-```node index.js```
+```
+node index.js
+```
 
-```webpack```
+```
+webpack
+```
 
 ## Preview
 
